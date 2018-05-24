@@ -1,0 +1,5 @@
+andi 79
+rudi 34
+lola 98
+dina 18
+rocky 23
